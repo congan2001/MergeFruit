@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - background
+  - others
+  - 1
+  - 3
+  - 9
+  - 8
+  - 12
+  - 5
+  - 4
+  - 7
+  - 11
+  - 10
+  - 6
+  - fruits
+  - gameover bg
+  - clone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - fruitLayer
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3978263799
+    locked: 0
+  - name: loseline
+    uniqueID: 547171781
+    locked: 0
+  - name: others
+    uniqueID: 610204643
+    locked: 0
